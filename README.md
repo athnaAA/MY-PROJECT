@@ -1,14 +1,11 @@
-# My Projects 𖦹
+# My turtle code 𖦹
 
-A collection of small projects I've created while learning and experimenting with Python.
+A collection of small projects I've created while learning and experimenting with turtle module on Python.
 
 ## Projects
 
-𖦹 **Sort**
-A simple Python program that sorts numbers in a list.
-
-𖦹 **Turtle Mandala**
-A small generative art project using Python's Turtle module.
+𖦹 **Spiral**
+Create a spiral art.
 
 𖦹 **More projects coming soon...**
 
